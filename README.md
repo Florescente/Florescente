@@ -1,7 +1,9 @@
-### Hi, I'm a React developer 👋
+## Hi, I'm a React developer 👋
 
-<a href='mailto:lovemagicalflower@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
-<a href='https://api.whatsapp.com/send?phone=5511991464391'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' target='_blank'></a>
+<div>
+  <a href='mailto:lovemagicalflower@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
+  <a href='https://api.whatsapp.com/send?phone=5511991464391'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' target='_blank'></a>
+</div>
 
 <!--
 **florescente/florescente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
